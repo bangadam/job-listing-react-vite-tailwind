@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Job Listing - React + Vite + Tailwind" />
+  <img src="https://scrnli.com/files/JHxdaq7How0R8z" alt="Job Listing - React + Vite + Tailwind" />
 
 &#xa0;
 
