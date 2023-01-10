@@ -1,6 +1,5 @@
 <div align="center" id="top"> 
-  <!-- <img src="banner.png" alt="Job Listing - React + Vite + Tailwind" /> -->
-  ![Job Listing - React + Vite + Tailwind](https://scrnli.com/files/JHxdaq7How0R8z)
+  <img src="public/banner.png" alt="Job Listing - React + Vite + Tailwind">
 
 &#xa0;
 
